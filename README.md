@@ -1,4 +1,2 @@
-# formulaandcode
-machine learning formula and code in action
-
 鲁伟《机器学习公式推导与代码实现》
+第24章的代码在python3.6中才能运行。较版本的python可以通过在anaconda中的沙箱环境实现。
